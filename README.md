@@ -21,6 +21,14 @@ Ficando: `ce-fc-desafio-node-docker`
 
 Este ultimo campo de informações adicionais é opcional, apenas para difereciar em caso de projetos com nomes iguais, pois deve-se colocar essas informações na descrição.
 
+## Empresa
+Pessoais e etc., devem usar uma linha parecida:
+```
+<empresa>-<linguagem>-<tecnologia>-<infos>
+```
+
+Exemplo: `pulse-go-url-test`
+
 ## Demais Projetos
 Pessoais e etc., devem usar uma linha parecida:
 ```
